@@ -21,3 +21,13 @@ You can use either the github CLI or Github Desktop, the methodology won't chang
     6. Finally the code is merged into main and the changes should be live in production
 
 ### Final step after all work is done is to delete your branch.
+
+## Issues
+
+Issues can help track bugs or improvements needed in the project as it grows in complexity.  Github provides a nice way of sumbitting these and it helps keep record of things that we have fixed.
+
+1. When you find a bug or think of an improvement / feature, you can open an Issue in github: [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues) 
+2. Fill out the necessary information, and choose the proper tags: bug | feature | improvement
+3. If an issue is fixed, you can link the Issue number in the PR title to close out an issue at the same time:
+- Example: Fixes bug ABC: Issue #1234
+
