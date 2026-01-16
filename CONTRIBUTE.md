@@ -32,3 +32,8 @@ Issues can help track bugs or improvements needed in the project as it grows in 
 4. If an issue is fixed, you can link the Issue number in the PR title to close out an issue at the same time:
 - Example: Fixes bug ABC: Issue #1234
 
+
+## Github Workflows & Testing
+Once a client and tech stack has been decided, it is helpful to include end to end testing to ensure that the data is being represented correctly.  The Lead Developer will be the main person to write these workflows and tests but other team members are encouraged to add whatever it is they think would help.  
+
+The reasoning for this is to make the development -> production workflow fully tested in all environments and make sure the production build doesn't break for our client sometime in the future
