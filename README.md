@@ -8,5 +8,3 @@ What we can do:
 
 Have a headless cms hosted on the cloud: Sanity content lake
 upload a static build to skgold.
-
-
