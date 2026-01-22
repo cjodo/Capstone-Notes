@@ -1,0 +1,11 @@
+Light Blue: - rgb(0, 176, 216);
+						- #00b0d8;
+
+Dark Blue 	- rgb(47, 59, 66);
+						- #2f3b42;
+
+Orange 			-	rbg(242, 72, 0);
+						- #f24900;
+
+Gold 				- rgb(255, 166, 0);
+						- #ffa600;
