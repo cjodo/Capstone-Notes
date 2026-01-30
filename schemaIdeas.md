@@ -1,97 +1,97 @@
-[]Pages
+- [ ] Pages
 
-[]FAQs
+- [ ] FAQs
 
-[]FAQ Categories
+- [ ] FAQ Categories
 
-[]Announcements
+- [ ] Announcements
 
-[]Blog Posts
+- [ ] Blog Posts
 
-[]News Articles
+- [ ] News Articles
 
-[]Services
+- [ ] Services
 
-[]Service Categories
+- [ ] Service Categories
 
-[]Species
+- [ ] Species
 
-[]Conditions
+- [ ] Conditions
 
-[]Treatments
+- [ ] Treatments
 
-[]Clinic Locations
+- [ ] Clinic Locations
 
-[]Staff
+- [ ] Staff
 
-[]Volunteers
+- [ ] Volunteers
 
-[]Volunteer Roles
+- [ ] Volunteer Roles
 
-[]Donation Campaigns
+- [ ] Donation Campaigns
 
-[]Donation Tiers
+- [ ] Donation Tiers
 
-[]Sponsors
+- [ ] Sponsors
 
-[]Partners
+- [ ] Partners
 
-[]Success Stories
+- [ ] Success Stories
 
-[]Testimonials
+- [ ] Testimonials
 
-[]Events
+- [ ] Events
 
-[]Event Registrations
+- [ ] Event Registrations
 
-[]Closures
+- [ ] Closures
 
-[]Blackout Dates
+- [ ] Blackout Dates
 
-[]Form Definitions
+- [ ] Form Definitions
 
-[]Form Fields
+- [ ] Form Fields
 
-[]Intake Forms
+- [ ] Intake Forms
 
-[]Contact Forms
+- [ ] Contact Forms
 
-[]Eligibility Rules
+- [ ] Eligibility Rules
 
-[]Pricing Tables
+- [ ] Pricing Tables
 
-[]Navigation Menus
+- [ ] Navigation Menus
 
-[]Menu Items
+- [ ] Menu Items
 
-[]Site Settings
+- [ ] Site Settings
 
-[]SEO Presets
+- [ ] SEO Presets
 
-[]Media Assets
+- [ ] Media Assets
 
-[]Image Galleries
+- [ ] Image Galleries
 
-[]Documents
+- [ ] Documents
 
-[]Policies
+- [ ] Policies
 
-[]Emergency Alerts
+- [ ] Emergency Alerts
 
-[]Operating Hours
+- [ ] Operating Hours
 
-[]Holiday Hours
+- [ ] Holiday Hours
 
-[]Social Links
+- [ ] Social Links
 
-[]Call-to-Action Blocks
+- [ ] Call-to-Action Blocks
 
-[]Homepage Sections
+- [ ] Homepage Sections
 
-[]Feature Flags
+- [ ] Feature Flags
 
-[]Redirects
+- [ ] Redirects
 
-[]Search Index Entries
+- [ ] Search Index Entries
 
-[]Analytics Counters
+- [ ] Analytics Counters
